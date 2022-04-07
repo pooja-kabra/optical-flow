@@ -9,7 +9,5 @@ This is a glimpse of the results obtained!
 
 ## Moving Objects
 ![Moving Objects](https://github.com/pooja-kabra/optical-flow/blob/main/results/Moving_Objects.gif)
-## Results on Noisy Data 
-
 
 See report for implementation details!
